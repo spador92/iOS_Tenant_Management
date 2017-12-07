@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>692524565247-eao922beppkrt3u6o68l4a192kffju9f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.692524565247-eao922beppkrt3u6o68l4a192kffju9f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxlGaf5jo-8zgk61xaxnTXrmtlm0Oku_I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>692524565247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Rodap.Tenant-Management.Tenant-Management</string>
+	<key>PROJECT_ID</key>
+	<string>tenant-organizer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tenant-organizer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:692524565247:ios:3efe65f4f6347ef3</string>
+	<key>DATABASE_URL</key>
+	<string>https://tenant-organizer.firebaseio.com</string>
+</dict>
+</plist>
